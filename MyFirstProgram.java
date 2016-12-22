@@ -39,6 +39,7 @@ public class MyFirstProgram {
 			System.out.println("all done!");
 			System.out.println("all done 2!");
 			System.out.println("dafaq is going on out here!");
+			System.out.println("hello guys how r ya? xD");
 		}	
 		
 		//for loop
