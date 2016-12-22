@@ -38,6 +38,7 @@ public class MyFirstProgram {
 			break;
 			System.out.println("all done!");
 			System.out.println("all done 2!");
+			System.out.println("dafaq is going on out here!");
 		}	
 		
 		//for loop
