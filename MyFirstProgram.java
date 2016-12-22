@@ -37,6 +37,7 @@ public class MyFirstProgram {
 			System.out.println("swithed to SMALL");
 			break;
 			System.out.println("all done!");
+			System.out.println("all done 2!");
 		}	
 		
 		//for loop
